@@ -68,7 +68,7 @@ Serivce works on port 5002
 Please add any comments on choices you have made, any missed functionally or known bugs and what you would improve or do differently given more time if you were to make this solution production-ready.
 
 - I wrote authorizations using googleOAuth unnecessarily, but I learn something new :)
-  if you would try it please change LoginButton to LoginButtonByGoogle into FE part and   remember that you need run also auth-service
+  if you would try it please change LoginButton to LoginButtonByGoogle into FE part and remember that you need run also auth-service
 - When user remove favourite sale there is query refresh, and we have blinking this should not happen
 - no unit tests and no typescript for microservices sorry :(
 - I could use docker to run whole app by one commend
